@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.impar{
+    background-color:#ffb6c1;
+    font-family: Verdana, dejaVu Sans, sans-serif;
+}
+
+#numbertwo{ color:#0000ff; /*background-color: #0000ff; this is my error*/
+    font-size: 36px;}
+
+
+.cooler{font-size: 24px;}
+
+#numberfour{background-color: #90ee90;
+font-size: 24;
+font-weight:bold}
